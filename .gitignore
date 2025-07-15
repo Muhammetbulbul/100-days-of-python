@@ -1,0 +1,10 @@
+# IDE klasörleri
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Sistem
+.DS_Store
