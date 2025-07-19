@@ -1,28 +1,40 @@
-📅 Gün 4 - Görevler ve Öğrenilenler
-✅ Bugünkü Konular:
-random modülünün kullanımı
+# 🐍 100 Days of Python
 
-random.randint()
+Merhaba! 👋
 
-random.choice()
+Bu repoda, **100 gün boyunca her gün Python çalışarak kendimi geliştirmeyi** hedeflediğim yolculuğumu belgeliyorum. Her gün yeni bir konu öğreniyor, küçük projeler veya alıştırmalar yaparak pratik kazanıyorum.
 
-random.random()
+## 🎯 Amacım
 
-Liste indeksleri ve index mantığı
+* Python'daki bilgi seviyemi artırmak
+* Her gün düzenli olarak kod yazma alışkanlığı kazanmak
+* Öğrendiklerimi GitHub üzerinden belgeleyerek hem kendime hem başkalarına faydalı olmak
 
-liste[0], liste[-1] kullanımı
+## 📅 Günlük Gelişim Planım
 
-IndexError: list index out of range hatası ve çözümü
+* Her gün en az 1 Python dersi, konu veya proje üzerinde çalışıyorum
+* Öğrendiklerimi not alıyor veya örnek kodlarla burada paylaşıyorum
+* Mümkün oldukça yorum satırları ve açıklamalarla anlaşılır hale getirmeye çalışıyorum
 
-if / else yapısının pekiştirilmesi
+## 📁 İçerik
 
-🎯 Görevler:
- random modülünü kullanarak örnekler yap
+Bu repoda şunları bulabilirsin:
 
- Liste içerisinden index ile veri çekmeyi öğren
+* Temel Python konuları (değişkenler, döngüler, fonksiyonlar...)
+* Orta seviye projeler (CLI uygulamaları, oyunlar, API kullanımı)
+* Kütüphane denemeleri (pandas, requests, tkinter, vs.)
+* Kod yorumları ve günlük notlarım
 
- -1 indeksinin ne işe yaradığını kavra
+## 🚀 Nasıl Katkı Sağlayabilirsin?
 
- IndexError hatasını üret ve düzelt
+Eğer sen de bu tarz bir çalışma yapıyorsan:
 
- Taş-Kağıt-Makas projesini tamamla (if / else kullanarak)
+* Fork'layıp kendi 100 gün yolculuğuna başlayabilirsin
+* Benim kodlarıma göz atıp yorum yapabilir, önerilerde bulunabilirsin
+* Yeni fikir veya düzeltmeler için pull request gönderebilirsin
+---
+
+> Not: Bu proje **kendime karşı verdiğim bir söz** ve bunu açık kaynak olarak paylaşmak, hem motivasyonumu artırıyor hem de başkalarına ilham olabilir diye düşünüyorum. Eğer yolculuğumu takip etmek istersen yıldızlamayı unutma! ⭐
+
+---
+
