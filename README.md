@@ -1,37 +1,28 @@
-# 🐍 100 Days of Python
+📅 Gün 4 - Görevler ve Öğrenilenler
+✅ Bugünkü Konular:
+random modülünün kullanımı
 
-Merhaba! 👋
+random.randint()
 
-Bu repoda, **100 gün boyunca her gün Python çalışarak kendimi geliştirmeyi** hedeflediğim yolculuğumu belgeliyorum. Her gün yeni bir konu öğreniyor, küçük projeler veya alıştırmalar yaparak pratik kazanıyorum.
+random.choice()
 
-## 🎯 Amacım
+random.random()
 
-* Python'daki bilgi seviyemi artırmak
-* Her gün düzenli olarak kod yazma alışkanlığı kazanmak
-* Öğrendiklerimi GitHub üzerinden belgeleyerek hem kendime hem başkalarına faydalı olmak
+Liste indeksleri ve index mantığı
 
-## 📅 Günlük Gelişim Planım
+liste[0], liste[-1] kullanımı
 
-* Her gün en az 1 Python dersi, konu veya proje üzerinde çalışıyorum
-* Öğrendiklerimi not alıyor veya örnek kodlarla burada paylaşıyorum
-* Mümkün oldukça yorum satırları ve açıklamalarla anlaşılır hale getirmeye çalışıyorum
+IndexError: list index out of range hatası ve çözümü
 
-## 📁 İçerik
+if / else yapısının pekiştirilmesi
 
-Bu repoda şunları bulacaksın:
+🎯 Görevler:
+ random modülünü kullanarak örnekler yap
 
-* Temel Python konuları (değişkenler, döngüler, fonksiyonlar...)
-* Orta seviye projeler (CLI uygulamaları, oyunlar, API kullanımı)
-* Kütüphane denemeleri (pandas, requests, tkinter, vs.)
-* Kod yorumları ve günlük notlarım
+ Liste içerisinden index ile veri çekmeyi öğren
 
-## 🚀 Nasıl Katkı Sağlayabilirsin?
+ -1 indeksinin ne işe yaradığını kavra
 
-Eğer sen de bu tarz bir çalışma yapıyorsan:
+ IndexError hatasını üret ve düzelt
 
-* Fork'layıp kendi 100 gün yolculuğuna başlayabilirsin
-* Benim kodlarıma göz atıp yorum yapabilir, önerilerde bulunabilirsin
-* Yeni fikir veya düzeltmeler için pull request gönderebilirsin
-
-> Not: Bu proje **kendime karşı verdiğim bir söz** ve bunu açık kaynak olarak paylaşmak, hem motivasyonumu artırıyor hem de başkalarına ilham olabilir diye düşünüyorum. Eğer yolculuğumu takip etmek istersen yıldızlamayı unutma! ⭐
-
+ Taş-Kağıt-Makas projesini tamamla (if / else kullanarak)
